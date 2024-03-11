@@ -1,0 +1,12 @@
+pagination
+1. Set pagination variables
+2. Add LIMIT clause in SELECT query
+3. Count total number of records
+4. Include paging file
+5. Create paging.php
+6. Add first page button
+7. Add clickable page numbers
+8. Add last page button
+
+FILE UPLOAD IN PHP
+Add HTML "file" field
